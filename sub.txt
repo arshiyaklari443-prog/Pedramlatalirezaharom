@@ -1,6 +1,6 @@
-https://vpn-telegram.com/config/78526005-f0de-4d43-8cf7-39b53a4a9867
-https://vpn-telegram.com/config/92f0c261-a682-4429-be44-35b79532fc52
-https://vpn-telegram.com/config/97a2d1c0-f219-4c53-b5cb-a6b79c355940
-https://vpn-telegram.com/config/92f0c261-a682-4429-be44-35b79532fc52
-https://vpn-telegram.com/config/051ece98-0577-40a3-8c8f-a7177ee02497
+vless://8287f4d2-7228-42b7-9a70-1829f83b8b05@91.84.97.60:2095?security=none&type=ws&headerType=&path=%2Fvless&host=#%F0%9F%9A%80%20Marz%20%28e989e120-6ab2-4fe9-9200-a3780ae80a7a%29%20%5BVLESS%20-%20ws%5D
+vless://56aac582-b598-4af4-b382-56c07f0c2e25@77.238.239.214:2095?security=none&type=ws&headerType=&path=%2Fvless&host=#%F0%9F%9A%80%20Marz%20%288c704f14-2a8c-477c-b10b-dbe91b170831%29%20%5BVLESS%20-%20ws%5D
+vmess://eyJhZGQiOiAiNzcuMjM4LjIzOS4yMTQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWQ1NTExMGEtMDZkNS00Mjc0LTgxMDItZDE5ZjNiNTI3NDkwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogMjA5NiwgInBzIjogIlx1ZDgzZFx1ZGU4MCBNYXJ6ICg1YjVmMzliYS1jMjNmLTRiOWItYjRiZC0yM2EyZTBjODBhZjUpIFtWTWVzcyAtIHdzXSIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiODkuMTEwLjc5LjI0MiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmYmNkY2YxYi04MDU4LTQ3ODQtODRhYi03ZDlkZGY5NjIzMTkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAyMDk2LCAicHMiOiAiXHVkODNkXHVkZTgwIE1hcnogKGMzMjQ1ZGFhLTJmNjAtNGM3OS1iYTY1LTNiYjk5YTJjNDBmZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
+trojan://H9St0qMPnA8mTr2F@89.110.79.242:2097?security=none&type=ws&headerType=&path=%2Ftrojan&host=#%F0%9F%9A%80%20Marz%20%28a13e4640-4272-4cf8-9358-a3a1e53287d2%29%20%5BTrojan%20-%20ws%5D
